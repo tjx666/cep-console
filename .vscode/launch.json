@@ -8,9 +8,7 @@
       "name": "AE JSX",
       "type": "extendscript-debug",
       "request": "launch",
-      "program": "${workspaceFolder}/jsx/__log.jsx",
-      "targetSpecifier": "aftereffects-17.0",
-      "engineName": "main"
+      "program": "${file}"
     }
   ]
 }
