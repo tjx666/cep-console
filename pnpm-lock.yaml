@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  types-for-adobe: ^6.0.1
+
+devDependencies:
+  types-for-adobe: registry.npmmirror.com/types-for-adobe/6.0.1
+
+packages:
+
+  registry.npmmirror.com/types-for-adobe/6.0.1:
+    resolution: {integrity: sha1-Vn+zlx7oRk02k7jT7Q6aDJmIw0s=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/types-for-adobe/download/types-for-adobe-6.0.1.tgz}
+    name: types-for-adobe
+    version: 6.0.1
+    dev: true

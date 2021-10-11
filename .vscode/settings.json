@@ -1,0 +1,20 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/*.lock": true,
+    "**/dist": true
+  },
+  "stylelint.enable": false,
+  "xml.fileAssociations": [
+    {
+      "pattern": "CSXS/manifest.xml",
+      "systemId": "https://raw.githubusercontent.com/Adobe-CEP/CEP-Resources/master/CEP_8.x/ExtensionManifest_v_7_0.xsd"
+    }
+  ],
+  "files.associations": {
+    "**/jsx/*.jsx": "javascript",
+    ".debug": "xml"
+  }
+}
